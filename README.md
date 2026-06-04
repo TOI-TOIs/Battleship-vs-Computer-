@@ -11,3 +11,14 @@ The game features a complete ship placement phase with boundary and collision va
 ## 💻 Tech Stack
 *   **Language:** C
 *   **Libraries used:** `<stdio.h>`, `<stdlib.h>`, `<time.h>`, `<string.h>`
+
+## 🚀 How to Compile and Run
+
+To play the game on a Linux/Unix terminal or Windows command prompt, use the following GCC commands:
+
+```bash
+# Compile the code
+gcc main.c -o battleship
+
+# Run the executable
+./battleship
