@@ -1,6 +1,6 @@
 # Battleship-vs-Computer
 
-In the 1st Semester in college we were assinged to make the game Battleship in the coding launguge C.
+In the 1st Semester in college, we were assigned to make the game Battleship in the C programming language. The game features a complete ship placement phase with boundary and collision validations, and pits the player against an algorithmic bot opponent.
 
 The game features a complete ship placement phase with boundary and collision validations, and pits the player against an algorithmic bot opponent.
 
